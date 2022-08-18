@@ -1,0 +1,29 @@
+content:
+- Introduction to Kotlin
+- Overview of the basic program
+- Values and variables
+- Data types
+- Comments
+- Standard output
+- Type conversion
+- Reading data with a readln
+- String basics
+- String templates
+- Integers in action
+- Relational operators
+- If expression
+- Declaring functions
+- Enum
+- Errors in programs
+- What is an exception
+- Hierarchy of exceptions
+- Taming exceptions
+- Nullable and non-nullable types
+- Null safety
+- Type system
+- Secondary constructor
+- Inheritance
+- Data class
+- Property accessors
+- Processing strings
+- Jumps and returns

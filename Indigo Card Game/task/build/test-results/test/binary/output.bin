@@ -1,0 +1,22 @@
+[1;31m
+Start test 1[0m
+Indigo Card Game
+Play First?
+> yes
+2Initial cards on the table: K♦ 10♦ K♣ K♠
+
+04 cards on the table, and the top card is K♠
+:Cards in hand: 1)J♦ 2)4♥ 3)6♦ 4)A♣ 5)3♣ 6)4♣
+Choose a card to play (1-6):
+> 1
+
+05 cards on the table, and the top card is J♦
+7♣ A♥ 6♥ Q♦ 2♥ 8♦
+Computer plays 8♦
+Computer wins cards
+Score: Player 0 - Computer 1
+Cards: Player 5 - Computer 5
+
+No cards on the table
+3Cards in hand: 1)4♥ 2)6♦ 3)A♣ 4)3♣ 5)4♣
+Choose a card to play (1-5):
